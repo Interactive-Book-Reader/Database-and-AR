@@ -27,4 +27,4 @@ Before you can use the resources in this repository, make sure you have the foll
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/AR-Content-Repo.git
+   git clone https://github.com/Interactive-Book-Reader/Database-and-AR.git
